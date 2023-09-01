@@ -1,3 +1,7 @@
+Challenge is finished! 
+======================
+This is the 2023 Auditory EEG challenge, which is now finished. If you are looking for the most recent challenge, go to the [2024 ICASSP Auditory EEG challenge codebase](https://github.com/exporl/auditory-eeg-challenge-2024-code).
+
 Auditory-eeg-challenge-2023-code
 ================================
 This is the codebase for the [2023 ICASSP Auditory EEG challenge](https://exporl.github.io/auditory-eeg-challenge-2023).
